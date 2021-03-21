@@ -8,4 +8,5 @@ MERN Stack comprises of 4 technologies namely: MongoDB, Express, React and Node.
 
 ## Deployment
 Frontend deployed with netlify: https://agitated-boyd-3793bd.netlify.app/
+
 Backend deployed with heroku: https://momories-project-666.herokuapp.com/
