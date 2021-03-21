@@ -1,7 +1,7 @@
 import { pink } from '@material-ui/core/colors';
 import axios from 'axios';
 
-const API = axios.create({baseURL: 'http://localhost:5000'})
+const API = axios.create({baseURL: 'https://momories-project-666.herokuapp.com/'})
 
 API.interceptors.request.use((req) => {
     if (localStorage.getItem('profile')) {
